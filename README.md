@@ -172,8 +172,6 @@ Estrutura principal:
 
 # Ambiente de desenvolvimento
 
-Como você possui limitações locais:
-
 - GitHub.dev → edição rápida
 - GitHub Codespaces → desenvolvimento principal
 - Neon → banco cloud
@@ -187,44 +185,9 @@ Como você possui limitações locais:
 ```bash
 GYMBASK-LAB---1/
 ├── backend/
-│   ├── app/
-│   │   ├── api/
-│   │   ├── calculations/
-│   │   ├── core/
-│   │   ├── models/
-│   │   ├── repositories/
-│   │   ├── schemas/
-│   │   ├── services/
-│   │
-│   ├── tests/
-│   ├── main.py
-│   ├── README.md
-│   ├── requirements.txt
-│
 ├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── app/
-│   │   ├── components/
-│   │   ├── hooks/
-│   │   ├── services/
-│   │   ├── styles/
-│   │   ├── types/
-│   │   ├── utils/
-│
 ├── docs/
-│   ├── architecture/
-│   ├── database/
-│   ├── business-rules/
-│   ├── api/
-│   ├── roadmap/
-│   ├── setup-environment.md
-│
 ├── scripts/
-│   ├── backups/
-│   ├── seeds/
-│   ├── sql/
-│
 ├── commands.md
 ├── .gitignore
 ├── .env.example
